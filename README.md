@@ -6,7 +6,7 @@ Takes the command through microphone using speech recognition and perform the ta
 Before using any command mentioned in feature, "Alexa" command is required to initiate the communication.
 
 #Libraries(Python):
-speech_recognition as sr    # SPEECH TO TEXT
+speech_recognition   # SPEECH TO TEXT
 pyttsx3     # PYTHON TEXT TO SPEACH 
 pywhatkit  
 datetime    # PACKAGE FOR DATE AND TIME
