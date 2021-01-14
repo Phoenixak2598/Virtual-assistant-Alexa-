@@ -1,5 +1,5 @@
 # Virtual-assistant-Alexa-
-The aim of this project is to create a virtual assistant which can be able to respond the general quarry related to a particular entity or an Organsation.
+The aim of this project is to create a virtual assistant which can be able to respond the general querry related to a particular entity or an Organsation.
 
 # working:
 Takes the command through microphone using speech recognition and perform the task according to that.
@@ -16,7 +16,7 @@ pyjokes     # PACKAGE FOR JOKES
 #features:
 1- General Enquary as per your requirement.
 2- Able to play song on youtube by using play command.
-3- Able to featch the record for wikipedia
+3- Able to featch the record for wikipedia.
 4- Able to present date and time when required.
 5- Able to play jokes by jokes command.
 
